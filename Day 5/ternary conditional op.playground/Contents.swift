@@ -1,3 +1,7 @@
 import Cocoa
 
-var greeting = "Hello, playground"
+let score = 100
+
+var scoreChecker = score >= 50 ? "Yes": "NO" // ternary operator
+
+
